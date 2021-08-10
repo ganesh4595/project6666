@@ -1,0 +1,7 @@
+<project name="6666" default="WAR-build" basedir=".">
+	<description>6666 - Build file</description>
+	
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+	
+</project>
